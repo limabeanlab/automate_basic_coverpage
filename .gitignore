@@ -1,0 +1,7 @@
+# IGNORE EVERYTHING in the same directory as .gitignore
+/*
+
+# DON'T IGNORE FILES BELOW
+!/.git
+!/.gitignore
+!/automate.sh
