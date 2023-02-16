@@ -5,3 +5,5 @@
 !/.git
 !/.gitignore
 !/automate.sh
+!/README.md
+!/LICENSE
