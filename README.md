@@ -18,8 +18,7 @@
 
 ### Step 5: Customize and enjoy!
 
-NOTE: IF YOU ARE RUNNING ON WINDOWS, YOU SHOULD LOOK INTO WSL.
-https://learn.microsoft.com/en-us/windows/wsl/install
+NOTE: MacOS is needed to run successfully.
 
 THIS PROJECT WAS MADE POSSIBLE BY:
 https://getbootstrap.com/docs/5.3/examples/
